@@ -1,0 +1,22 @@
+[
+    {
+        "repository": "arco/android_hardware_qcom_display-legacy",
+        "target_path": "hardware/qcom/display-legacy",
+        "branch": "cm-10.1"
+    },
+    {
+        "repository": "arco/android_hardware_qcom_media-legacy",
+        "target_path": "hardware/qcom/media-legacy",
+        "branch": "cm-10.1"
+    },
+    {
+        "repository": "Christopher83/samsung-kernel-msm7x30",
+        "target_path": "kernel/samsung/msm7x30",
+        "branch": "cm-10.1_3.0"
+    },
+    {
+        "repository": "SlimRoms/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "jb4.2"
+    }
+]
